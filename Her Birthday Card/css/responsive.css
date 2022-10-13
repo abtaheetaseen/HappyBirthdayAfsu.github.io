@@ -1,0 +1,18 @@
+@media(max-width:700px){
+    .block{
+        margin-right: -50px;
+margin-top: 230px;
+    }
+    .card{
+        margin-left: -192px;
+margin-top: -287px;
+    }
+    .inside img{
+        margin-top: 96px;
+    }
+    .inside h3{
+        font-size: 13px;
+margin-top: 0px;
+    }
+
+}
